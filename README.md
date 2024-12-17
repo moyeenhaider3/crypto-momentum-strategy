@@ -110,7 +110,7 @@ Widget buildDataTable(List<Coin> coins) {
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your_username/your_repo.git
+   git clone https://github.com/moyeenhaider3/crypto-momentum-strategy.git
    cd your_repo
    ```
 
