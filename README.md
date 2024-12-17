@@ -111,7 +111,7 @@ Widget buildDataTable(List<Coin> coins) {
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/moyeenhaider3/crypto-momentum-strategy.git
-   cd your_repo
+   cd crypto-momentum-strategy
    ```
 
 2. **Install Dependencies**
